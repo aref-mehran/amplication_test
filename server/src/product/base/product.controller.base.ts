@@ -233,6 +233,7 @@ export class ProductControllerBase {
         },
 
         quantity: true,
+        testOrderFiled: true,
         totalPrice: true,
         updatedAt: true,
       },
